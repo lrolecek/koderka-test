@@ -3,3 +3,12 @@ body {
 	background-color: beige;
 	color: blue;
 }
+
+h1 {
+	color: red;
+}
+
+p {
+	color: purple;
+	font-size: 18px;
+}
